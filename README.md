@@ -1,3 +1,3 @@
 # Java复习
 
-## [annotation](./annotation.md)
+## [注解(annotation)](./annotation.md)
